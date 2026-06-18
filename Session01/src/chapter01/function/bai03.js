@@ -12,3 +12,5 @@ function sum(a, b) {
 }
 
 console.log(sum(3, 4));
+
+console.log(sum("tran bang", " 20"));
