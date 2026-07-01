@@ -18,4 +18,4 @@ getSubmit.addEventListener("click", () => {
   document.getElementById("message").innerHTML = `<b>${input.value}</b>`;
 
   localStorage.setItem("bang_beo", input.value);
-});
+});       
